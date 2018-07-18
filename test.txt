@@ -1,11 +1,12 @@
 Ceci est un test afin de voir si GIT fonctionne bien
 
-Petite modifica
-fff
-
 
 blablabla
 
 
 
 plein de belles choses
+
+
+
+Non mais ça ne marche pas 
